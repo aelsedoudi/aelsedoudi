@@ -17,6 +17,11 @@
   
 </div>
 
+<h1>The Journey so Far</h1>
+- [ ] Add Skills
+- [ ] Transfer Repositories / Fork Old Scattered ones
+- [ ] Add some fun features
+
 <!--
 **aelsedoudi/aelsedoudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
