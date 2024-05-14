@@ -3,15 +3,15 @@
 <div class="skills">
   <h2>Full-Stack Developer who's worked with</h2>
   
-  <div width="33" align="left">
+  <div width="33%" align="left">
     <h3>Front-end</h3>
   </div>
   
-  <div width="33" align="left">
+  <div width="33%" align="left">
     <h3>Back-end</h3>
   </div>
   
-  <div width="33" align="right">
+  <div width="33%" align="left">
     <h3>Tools & Additional Experience</h3>
   </div>
   
