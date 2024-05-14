@@ -1,4 +1,22 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Yo! Welcome in</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Yo! Welcome in,</h1>
+
+<div class="skills">
+  <h2>Full-Stack Developer who's worked with</h2>
+  
+  <div width="33">
+    <h3>Front-end</h3>
+  </div>
+  
+  <div width="33">
+    <h3>Back-end</h3>
+  </div>
+  
+  <div width="33">
+    <h3>Tools & Additional Experience</h3>
+  </div>
+  
+</div>
+
 
 <!--
 **aelsedoudi/aelsedoudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
