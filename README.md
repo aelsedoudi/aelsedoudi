@@ -24,9 +24,12 @@
     <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
     <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />
   </p>
-  
-  <p align="right">
-    <h3>Additonal Tools, Languages & Experience</h3>
+
+  <h3>Additonal Tools, Languages & Experience</h3>
+  <p>
+    <img alt="ActiveCampaign" src="https://img.shields.io/badge/-ActiveCampaign-004cff?style=flat-square&logoColor=white" />
+    <img alt="HubSpot" src="https://img.shields.io/badge/-HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white" />
+    <img alt="MailChimp" src="https://img.shields.io/badge/-MailChimp-FFE01B?style=flat-square&logo=mailchimp&logoColor=black" />
   </p>
 
 <h1>The Journey so Far</h1>
