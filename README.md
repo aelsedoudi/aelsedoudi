@@ -10,10 +10,11 @@
 
   > [!NOTE]
   > While this is a great place to get a quick breakdown about me, check out my website for the real goods!
-  
-  <p width="33%" align="left">
-    <h3>Front-end</h3>
+
+  <h3>Front-end</h3>
+  <p>
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+    <img alt="Vue.JS" src="https://img.shields.io/badge/-Vue.JS-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
   </p>
   
   <p align="left">
