@@ -13,6 +13,7 @@
   
   <p width="33%" align="left">
     <h3>Front-end</h3>
+    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   </p>
   
   <p align="left">
@@ -20,7 +21,7 @@
   </p>
   
   <p align="right">
-    <h3>Tools & Additional Experience</h3>
+    <h3>Additonal Tools, Languages & Experience</h3>
   </p>
 
 <h1>The Journey so Far</h1>
