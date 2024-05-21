@@ -13,12 +13,16 @@
 
   <h3>Front-end</h3>
   <p>
+    <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+    <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-    <img alt="Vue.JS" src="https://img.shields.io/badge/-Vue.JS-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+    <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
   </p>
-  
-  <p align="left">
-    <h3>Back-end</h3>
+
+  <h3>Back-end</h3>
+  <p>
+    <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
+    <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />
   </p>
   
   <p align="right">
@@ -26,9 +30,6 @@
   </p>
 
 <h1>The Journey so Far</h1>
-- [ ] Add Skills
-- [ ] Transfer Repositories / Fork Old Scattered ones
-- [ ] Add some fun features
 
 <!--
 **aelsedoudi/aelsedoudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
