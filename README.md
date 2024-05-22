@@ -13,6 +13,7 @@
 
   <h3>Front-end</h3>
   <p>
+    <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
     <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
     <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
