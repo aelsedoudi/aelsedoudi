@@ -19,7 +19,7 @@
   past experiences: 
     - ["Fullstack Developer", "Web & App Development", "Alliance Sales & Marketing", "Charlotte, NC", "2020-Present"]
     - ["Founder", "Freelance Development & Content Creation", "JFO", "Charlotte, NC", "2017-Present"]
-    - ["Lead Developer (Fullstack)", "Web Development & iOS (Swift)", "Theory Communication & Design", "Charlotte NC, ", "2014-2020"]
+    - ["Lead Developer)", "Fullstack Web Dev & iOS App Dev (Swift)", "Theory Communication & Design", "Charlotte NC", "2014-2020"]
     - ["Lead Instructor", "Scratch / JavaScript", "IT Tech Camps", "Chapel Hill, NC", "2012-2013"]
     - ["Photobooth Attendantr", "People Skills", "Shoebox Photobooth", "Charlotte, NC", "2009-2012"]
   
