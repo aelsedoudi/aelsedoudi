@@ -28,6 +28,9 @@
   hobbies: ["Content Creation", "Weightlifting", "Video Games", "Video Editing"]
   ```
 
+  <!-- 
+To Add - Profile links, mailto: , linkedIn, main website-->
+
   <h1>I feel most confident with</h1>
 
   <h3>Front-end</h3>
