@@ -6,10 +6,29 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture> -->
 
-  <h4>Yo! I'm Adam, a full-stack developer currently based out of <img src="https://cdn-icons-png.flaticon.com/512/4628/4628635.png" width="13"/> <b>North Carolina</b></h4>
-
   > [!NOTE]
   > While this is a great place to get a quick breakdown about me, check out my website for the real goods!
+
+  ```yaml
+  name: Adam Elsedoudi
+  located_in: North Carolina
+  from: Egypt
+  job: Fullstack Development
+  education: ["Bachelor's in Computer Science with a minor in mathematics"]
+  company: JFO 
+  past experiences: 
+    - ["Fullstack Developer", "Web & App Development", "Alliance Sales & Marketing", "Charlotte, NC", "2020-Present"]
+    - ["Founder", "Freelance Development & Content Creation", "JFO", "Charlotte, NC", "2017-Present"]
+    - ["Lead Developer (Fullstack)", "Web Development & iOS (Swift)", "Theory Communication & Design", "Charlotte NC, ", "2014-2020"]
+    - ["Lead Instructor", "Scratch / JavaScript", "IT Tech Camps", "Chapel Hill, NC", "2012-2013"]
+    - ["Photobooth Attendantr", "People Skills", "Shoebox Photobooth", "Charlotte, NC", "2009-2012"]
+  
+  fields_of_interests: ["Broadcast Graphics Frameworks & Application", "SVG Manipulation", "Web Apps"]
+  currently_learning: ["NodeCG", "Contentful"]
+  hobbies: ["Content Creation", "Weightlifting", "Video Games", "Video Editing"]
+  ```
+
+  <h1>I feel most confident with</h1>
 
   <h3>Front-end</h3>
   <p>
@@ -44,12 +63,11 @@
     <img alt="MailChimp" src="https://img.shields.io/badge/-MailChimp-FFE01B?style=flat-square&logo=mailchimp&logoColor=black" />
     <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+    <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
     <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
     <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   </p>
-
-<h1>The Journey so Far</h1>
 
 <!--
 **aelsedoudi/aelsedoudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
