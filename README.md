@@ -12,7 +12,7 @@
   ```yaml
   name: Adam Elsedoudi
   located_in: North Carolina
-  from: Egypt
+  nationality: Egyptian
   job: Fullstack Development
   education: ["Bachelor's in Computer Science with a minor in mathematics"]
   company: JFO 
@@ -64,6 +64,7 @@ To Add - Profile links, mailto: , linkedIn, main website-->
     <img alt="Digital Ocean" src="https://img.shields.io/badge/-Digital_Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" />
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
     <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+    <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
     <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
     <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
@@ -73,14 +74,15 @@ To Add - Profile links, mailto: , linkedIn, main website-->
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" />
     <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-    <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" /> 
+    <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+    <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" /> 
   </p>
 
   [![HitCount](https://hits.dwyl.com/aelsedoudi/aelsedoudi.svg?style=flat-square)](http://hits.dwyl.com/aelsedoudi/aelsedoudi)
 
   <!-- 
 To Add
-SQL, Firebase, NonSQL, Wordpress,Contentful , Stylus, Visual Studio Code, Keen.io, AWS, Constant Contact, Google Analytics, Tag Manager, Facebook Pixels, AdRoll, Swift, Bootstrap  -->
+SQL, NonSQL, Contentful , Stylus, Visual Studio Code, Keen.io, AWS, Constant Contact, Google Analytics, Tag Manager, Facebook Pixels, AdRoll, Swift, Bootstrap  -->
 
 <!--
 **aelsedoudi/aelsedoudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
