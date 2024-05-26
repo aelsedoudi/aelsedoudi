@@ -60,6 +60,7 @@ To Add - Profile links, mailto: , linkedIn, main website-->
   <h3>Additonal Tools, Languages & Experience</h3>
   <p>
     <img alt="ActiveCampaign" src="https://img.shields.io/badge/-ActiveCampaign-004cff?style=flat-square&logoColor=white" />
+    <img alt="Contentful" src="https://img.shields.io/badge/-Contentful-2478CC?style=flat-square&logo=contentful&logoColor=white" />
     <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
     <img alt="Digital Ocean" src="https://img.shields.io/badge/-Digital_Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" />
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
