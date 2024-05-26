@@ -83,7 +83,7 @@ To Add - Profile links, mailto: , linkedIn, main website-->
 
   <!-- 
 To Add
-SQL, NonSQL, Contentful , Stylus, Visual Studio Code, Keen.io, AWS, Constant Contact, Google Analytics, Tag Manager, Facebook Pixels, AdRoll, Swift, Bootstrap  -->
+SQL, NonSQL, Stylus, Visual Studio Code, Keen.io, AWS, Constant Contact, Google Analytics, Tag Manager, Facebook Pixels, AdRoll, Swift, Bootstrap  -->
 
 <!--
 **aelsedoudi/aelsedoudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
