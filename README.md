@@ -21,7 +21,7 @@
     - ["Founder", "Freelance Development & Content Creation", "JFO", "Charlotte, NC", "2017-Present"]
     - ["Lead Developer)", "Fullstack Web Dev & iOS App Dev (Swift)", "Theory Communication & Design", "Charlotte NC", "2014-2020"]
     - ["Lead Instructor", "Scratch / JavaScript", "IT Tech Camps", "Chapel Hill, NC", "2012-2013"]
-    - ["Photobooth Attendantr", "People Skills", "Shoebox Photobooth", "Charlotte, NC", "2009-2012"]
+    - ["Photobooth Attendant", "People Skills", "Shoebox Photobooth", "Charlotte, NC", "2009-2012"]
   
   fields_of_interests: ["Broadcast Graphics Frameworks & Application", "SVG Manipulation", "Web Apps"]
   currently_learning: ["NodeCG", "Contentful"]
@@ -69,7 +69,9 @@ Organize- Everything in the right categories-->
     <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
     <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
     <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+    <img alt="Google Analytics" src="https://img.shields.io/badge/-Google_Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white" />
     <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+    <img alt="Google Tag Manager" src="https://img.shields.io/badge/-Google_Tag_Manager-246FDB?style=flat-square&logo=google-tag-manager&logoColor=white" />
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
     <img alt="HubSpot" src="https://img.shields.io/badge/-HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white" />
     <img alt="MailChimp" src="https://img.shields.io/badge/-MailChimp-FFE01B?style=flat-square&logo=mailchimp&logoColor=black" />
@@ -86,7 +88,7 @@ Organize- Everything in the right categories-->
 
   <!-- 
 To Add
-SQL, NonSQL, Stylus, Visual Studio Code, Keen.io, AWS, Constant Contact, Google Analytics, Tag Manager, Facebook Pixels, AdRoll, Swift, Bootstrap, Adobe Suite  -->
+SQL, NonSQL, Stylus, Visual Studio Code, Keen.io, AWS, Constant Contact, Facebook Pixels, AdRoll, Swift, Bootstrap, Adobe Suite  -->
 
 <!--
 **aelsedoudi/aelsedoudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
