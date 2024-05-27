@@ -54,7 +54,7 @@ Organize- Everything in the right categories-->
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
     <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
     <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />
-    <img alt="PostgresSQL" src="https://img.shields.io/badge/-PostgresSQL-4169E1?style=flat-square&logo=postgressql&logoColor=white" />
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
     <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />
     <img alt="Shopify" src="https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopifys&logoColor=white" />
   </p>
