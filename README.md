@@ -29,7 +29,8 @@
   ```
 
   <!-- 
-To Add - Profile links, mailto: , linkedIn, main website-->
+To Add - Profile links, mailto: , linkedIn, main website
+Organize- Everything in the right categories-->
 
   <h1>I feel most confident with</h1>
 
@@ -53,6 +54,7 @@ To Add - Profile links, mailto: , linkedIn, main website-->
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
     <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
     <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />
+    <img alt="PostgresSQL" src="https://img.shields.io/badge/-PostgresSQL-4169E1?style=flat-square&logo=postgressql&logoColor=white" />
     <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />
     <img alt="Shopify" src="https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopifys&logoColor=white" />
   </p>
@@ -71,6 +73,7 @@ To Add - Profile links, mailto: , linkedIn, main website-->
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
     <img alt="HubSpot" src="https://img.shields.io/badge/-HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white" />
     <img alt="MailChimp" src="https://img.shields.io/badge/-MailChimp-FFE01B?style=flat-square&logo=mailchimp&logoColor=black" />
+    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
     <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" />
     <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
@@ -83,7 +86,7 @@ To Add - Profile links, mailto: , linkedIn, main website-->
 
   <!-- 
 To Add
-SQL, NonSQL, Stylus, Visual Studio Code, Keen.io, AWS, Constant Contact, Google Analytics, Tag Manager, Facebook Pixels, AdRoll, Swift, Bootstrap  -->
+SQL, NonSQL, Stylus, Visual Studio Code, Keen.io, AWS, Constant Contact, Google Analytics, Tag Manager, Facebook Pixels, AdRoll, Swift, Bootstrap, Adobe Suite  -->
 
 <!--
 **aelsedoudi/aelsedoudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
