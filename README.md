@@ -88,7 +88,7 @@ Organize- Everything in the right categories-->
 
   <!-- 
 To Add
-SQL, NonSQL, Stylus, Visual Studio Code, Keen.io, AWS, Constant Contact, Facebook Pixels, AdRoll, Swift, Bootstrap, Adobe Suite  -->
+SQL, NonSQL, Stylus, Visual Studio Code, Gatsby, Vercel , Keen.io, AWS, Constant Contact, Facebook Pixels, AdRoll, Swift, Bootstrap, Adobe Suite  -->
 
 <!--
 **aelsedoudi/aelsedoudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
