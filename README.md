@@ -36,6 +36,7 @@ Organize- Everything in the right categories-->
 
   <h3>Front-end</h3>
   <p>
+    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
     <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -62,6 +63,7 @@ Organize- Everything in the right categories-->
   <h3>Additonal Tools, Languages & Experience</h3>
   <p>
     <img alt="ActiveCampaign" src="https://img.shields.io/badge/-ActiveCampaign-004cff?style=flat-square&logoColor=white" />
+    <img alt="Adobe" src="https://img.shields.io/badge/-Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white" />
     <img alt="Contentful" src="https://img.shields.io/badge/-Contentful-2478CC?style=flat-square&logo=contentful&logoColor=white" />
     <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
     <img alt="Digital Ocean" src="https://img.shields.io/badge/-Digital_Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" />
@@ -88,7 +90,7 @@ Organize- Everything in the right categories-->
 
   <!-- 
 To Add
-SQL, NonSQL, Stylus, Visual Studio Code, Gatsby, Vercel , Keen.io, AWS, Constant Contact, Facebook Pixels, AdRoll, Swift, Bootstrap, Adobe Suite  -->
+SQL, NonSQL, Stylus, Visual Studio Code, Gatsby, Vercel , Keen.io, AWS, Constant Contact, Facebook Pixels, AdRoll, Swift, Adobe Suite  -->
 
 <!--
 **aelsedoudi/aelsedoudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
