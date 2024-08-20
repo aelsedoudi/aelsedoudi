@@ -32,6 +32,12 @@
 To Add - Profile links, mailto: , linkedIn, main website
 Organize- Everything in the right categories-->
 
+  <h1>Current Workflow</h1>
+  <p>Figma</p>
+  <p>Storybook</p>
+  <p>React / NextJS</p>
+  <p>Tailwind</p>
+
   <h1>I feel most confident with</h1>
 
   <h3>Front-end</h3>
