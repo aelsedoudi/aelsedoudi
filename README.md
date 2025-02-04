@@ -40,14 +40,17 @@ Organize- Everything in the right categories-->
 
   <h1>I feel most confident with</h1>
 
-  <h3>Front-end</h3>
+  <h3>Front-end & JS Frameworks</h3>
   <p>
+    <img alt="Angular" src="https://img.shields.io/badge/-Angular-0F0F11?style=flat-square&logo=angular&logoColor=white" />
     <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+    <img alt="CSS" src="https://img.shields.io/badge/-CSS-663399?style=flat-square&logo=css&logoColor=white" />
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
     <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
     <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+    <img alt="React Native" src="https://img.shields.io/badge/-React_Native-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
     <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
     <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
