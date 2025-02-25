@@ -25,7 +25,7 @@
   
   fields_of_interests: ["Broadcast Graphics Frameworks & Application", "SVG Manipulation", "Web Apps", "CRMs"]
   currently_learning: ["NodeCG", "AI & ML"]
-  hobbies: ["Content Creation", "Weightlifting", "Video Games", "Video Editing"]
+  hobbies: ["Content Creation", "Weightlifting", "Video Games", "Video Editing", "Mahjong", "Volunteer Work", "Dance"]
   ```
 
   <!-- To Add - Profile links, mailto: , linkedIn, main website -->
