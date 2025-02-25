@@ -24,19 +24,18 @@
     - ["Photobooth Attendant", "People Skills", "Shoebox Photobooth", "Charlotte, NC", "2009-2012"]
   
   fields_of_interests: ["Broadcast Graphics Frameworks & Application", "SVG Manipulation", "Web Apps", "CRMs"]
-  currently_learning: ["NodeCG", "Contentful"]
+  currently_learning: ["NodeCG", "AI & ML"]
   hobbies: ["Content Creation", "Weightlifting", "Video Games", "Video Editing"]
   ```
 
-  <!-- 
-To Add - Profile links, mailto: , linkedIn, main website
-Organize- Everything in the right categories-->
+  <!-- To Add - Profile links, mailto: , linkedIn, main website -->
 
   <h1>Current Workflow</h1>
   <p>Figma</p>
   <p>Storybook</p>
   <p>React / NextJS</p>
   <p>Tailwind</p>
+  <p>Motion</p>
 
   <h1>I feel most confident with</h1>
 
@@ -68,8 +67,10 @@ Organize- Everything in the right categories-->
     <img alt="Drupal" src="https://img.shields.io/badge/-Drupal-0678BE?style=flat-square&logo=drupal&logoColor=white" />
     <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
     <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+    <img alt="Keen.io" src="https://img.shields.io/badge/-Keen_io-FFCA28?style=flat-square&logo=keenio&logoColor=black" />
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
     <img alt="NestJS" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+    <img alt="NoSQL" src="https://img.shields.io/badge/-nosql-EE8208?style=flat-square&logo=nosql&logoColor=white" />
     <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
     <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />
     <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
@@ -84,51 +85,50 @@ Organize- Everything in the right categories-->
 
   <h3>Testing, Build Tools & DevOps</h3>
   <p>
-    Beanstalk
+    <img alt="Beanstalk" src="https://img.shields.io/badge/-Beanstalk-5cad69?style=flat-square&logo=Beanstalk&logoColor=white" />
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-    Git
+    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-    Jest
-    Mocha
+    <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+    <img alt="Mocha" src="https://img.shields.io/badge/-Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white" />
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" />
     <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
     <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   </p>
 
+  <h3>Data, Visualization & UI/UX</h3>
+  <p>
+    <img alt="Adobe" src="https://img.shields.io/badge/-Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white" />
+    <img alt="Amazon Web Services" src="https://img.shields.io/badge/-Amazon_Web_Services-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white" />
+    <img alt="Chart.js" src="https://img.shields.io/badge/-chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
+    <img alt="d3.js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3&logoColor=white" />
+    <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+    <img alt="Google BigQuery" src="https://img.shields.io/badge/-Google_Bigquery-669DF6?style=flat-square&logo=google-bigquery&logoColor=white" />
+    <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+    <img alt="Power BI" src="https://img.shields.io/badge/-Power_BI-80B3FF?style=flat-square&logo=powerbi&logoColor=white" />
+    <img alt="Storybook" src="https://img.shields.io/badge/-storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" />
+    <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-FA6831?style=flat-square&logo=tableau&logoColor=white" />
+    <img alt="Zeroheight" src="https://img.shields.io/badge/-Zeroheight-CC2936?style=flat-square&logo=zeroheight&logoColor=white" />
+  </p>
+
   <h3>Additonal Tools, Languages & Experience</h3>
   <p>
     <img alt="ActiveCampaign" src="https://img.shields.io/badge/-ActiveCampaign-004cff?style=flat-square&logoColor=white" />
-    <img alt="Adobe" src="https://img.shields.io/badge/-Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white" />
-    <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
+    <img alt="AdRoll" src="https://img.shields.io/badge/-AdRoll-0DBDFF?style=flat-square&logo=adroll&logoColor=white" />
+    <img alt="Constant Contact" src="https://img.shields.io/badge/-Constant_Contact-00FFDA?style=flat-square&logo=constant-contact&logoColor=white" />
     <img alt="Digital Ocean" src="https://img.shields.io/badge/-Digital_Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" />
-    <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+    <img alt="Facebook Pixels" src="https://img.shields.io/badge/-Facebook_Pixels-0080FF?style=flat-square&logo=facebook&logoColor=white" />
+    <img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white" />
     <img alt="Google Analytics" src="https://img.shields.io/badge/-Google_Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white" />
-    <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
     <img alt="Google Tag Manager" src="https://img.shields.io/badge/-Google_Tag_Manager-246FDB?style=flat-square&logo=google-tag-manager&logoColor=white" />
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
     <img alt="HubSpot" src="https://img.shields.io/badge/-HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white" />
     <img alt="MailChimp" src="https://img.shields.io/badge/-MailChimp-FFE01B?style=flat-square&logo=mailchimp&logoColor=black" />
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
     <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+    <img alt="Salesforce" src="https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />
+    <img alt="Swift" src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-    
+    <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-2F61B4?style=flat-square&logo=visual-studio-code&logoColor=white" />
   </p>
-
-  <!-- 
-To Add
-SQL, NonSQL, Stylus, Visual Studio Code, Gatsby, Vercel , Keen.io, AWS, Constant Contact, Facebook Pixels, AdRoll, Swift, Adobe Suite , Salesforce -->
-
-<!--
-**aelsedoudi/aelsedoudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
