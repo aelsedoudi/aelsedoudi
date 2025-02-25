@@ -23,7 +23,7 @@
     - ["Lead Instructor", "Scratch / JavaScript", "ID Tech Camps", "Chapel Hill, NC", "2012-2013"]
     - ["Photobooth Attendant", "People Skills", "Shoebox Photobooth", "Charlotte, NC", "2009-2012"]
   
-  fields_of_interests: ["Broadcast Graphics Frameworks & Application", "SVG Manipulation", "Web Apps", "CRMs"]
+  fields_of_interests: ["Broadcast Graphics Frameworks & Application", "SVG Manipulation", "Web Apps", "CRMs", "AI & Machine Learning"]
   currently_learning: ["NodeCG", "AI & ML"]
   hobbies: ["Content Creation", "Weightlifting", "Video Games", "Video Editing", "Mahjong", "Volunteer Work", "Dance"]
   ```
